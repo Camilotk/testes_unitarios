@@ -1,0 +1,5 @@
+[33mASSERT[0m valor zero de produto
+[31mFAIL[0m valor zero de produto
+
+   Expected: `[32m0[0m'
+   Received: `[31m0.5[0m'

@@ -1,0 +1,3 @@
+(test
+ (name total_test)
+ (libraries alcotest compras))
