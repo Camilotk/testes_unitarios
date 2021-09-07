@@ -6,7 +6,7 @@ Os testes unitários, que também são chamados de teste de unidade ou teste de 
 
 Por serem os testes mais indivuduais e mais granulares na aplicação é também os testes que irão estar em maior quantidade em todo o sistema, como demonstrado pelo conceito de **Pirâmide de Testes** proposto por um dos fundadores do Scrum Alliance, Mike Cohn.
 
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--dcM0135C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ealtg2m79jiaur0ryb3v.png)
+![](./imagens/piramide.png)
 
 Na pirâmide os testes que uma aplicação de qualidade deve ter são dividos em três categorias: 
 
