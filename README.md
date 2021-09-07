@@ -73,3 +73,7 @@ A parte final do nosso teste em que vamos comparar o resultado recebido pela exe
 | .NET      | MSTest       |
 | C++       | Catch2       |
 | OCaml     | **Alcotest** |
+
+## Prática
+
+Arquivos do projeto de demonstração no repositório.
